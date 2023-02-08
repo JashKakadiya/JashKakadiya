@@ -1,4 +1,4 @@
-# ## <h1 align="center">Hi 👋, I'm Jash kakadiya</h1>
+## <h1 align="center">Hi 👋, I'm Jash kakadiya</h1>
 <h3 align="center">I'm a passionate Machine learning Developer</h3>
 
 [![](https://visitcount.itsvg.in/api?id=malaypatoliya&icon=0&color=1)](https://visitcount.itsvg.in)
