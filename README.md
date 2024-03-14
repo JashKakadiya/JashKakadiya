@@ -51,8 +51,8 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=#00C7B7)
-![AWS](https://img.shields.io/badge/aws-%23000000.svg?style=plastic&logo=vercel&logoColor=#00C7B7)
-![GCP](https://img.shields.io/badge/gcp-%23000000.svg?style=plastic&logo=vercel&logoColor=#00C7B7)
+![AWS](https://img.shields.io/badge/aws-%23000000.svg?style=plastic&logo=aws&logoColor=#00C7B7)
+![GCP](https://img.shields.io/badge/gcp-%23000000.svg?style=plastic&logo=gcp&logoColor=#00C7B7)
 
 <br>
 
