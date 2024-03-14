@@ -37,20 +37,22 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) 
 ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) 
-![Django](https://img.shields.io/badge/Django-%23777BB4.svg?style=plastic&logo=php&logoColor=white) 
+![Django](https://img.shields.io/badge/django-%23777BB4.svg?style=plastic&logo=django&logoColor=yellow) 
 
 ### 👉 Database
 ![Mysql](https://img.shields.io/badge/mysql-%234ea94b.svg?style=plastic&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) 
-![Postgres](https://img.shields.io/badge/postgres-%234ea94a.svg?style=plastic&logo=mysql&logoColor=white)
-![Mysql](https://img.shields.io/badge/mysql-%234ea94b.svg?style=plastic&logo=mysql&logoColor=white)
-![Mysql](https://img.shields.io/badge/mysql-%234ea94b.svg?style=plastic&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%234ea94a.svg?style=plastic&logo=postgres&logoColor=white)
+![Pinecone](https://img.shields.io/badge/pinecone-%234ea94b.svg?style=plastic&logo=pinecone&logoColor=white)
+![Mongodb](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
 
 
 ### 👉 Cloud Hosting
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=#00C7B7)
+![AWS](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=#00C7B7)
+![GCP](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=#00C7B7)
 
 <br>
 
