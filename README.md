@@ -4,7 +4,7 @@
 [![](https://visitcount.itsvg.in/api?id=malaypatoliya&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ## 🙋‍♂️ About Me
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently Working on **Deep Learning**,**Django**,**AI/ML projects**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
@@ -37,10 +37,14 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) 
 ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) 
+![Django](https://img.shields.io/badge/Django-%23777BB4.svg?style=plastic&logo=php&logoColor=white) 
 
 ### 👉 Database
 ![Mysql](https://img.shields.io/badge/mysql-%234ea94b.svg?style=plastic&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) 
+![Postgres](https://img.shields.io/badge/postgres-%234ea94a.svg?style=plastic&logo=mysql&logoColor=white)
+![Mysql](https://img.shields.io/badge/mysql-%234ea94b.svg?style=plastic&logo=mysql&logoColor=white)
+![Mysql](https://img.shields.io/badge/mysql-%234ea94b.svg?style=plastic&logo=mysql&logoColor=white)
 
 
 ### 👉 Cloud Hosting
