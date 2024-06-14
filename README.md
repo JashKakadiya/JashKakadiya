@@ -59,9 +59,8 @@
 ## 🌐Socials
 
 <p align="left">
- 
-	<a href="mailto:jashcontact750@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/jash-kakadiya/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+<a href="mailto:jashcontact750@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+<a href="https://www.linkedin.com/in/jash-kakadiya/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
 
 <br>
